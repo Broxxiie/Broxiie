@@ -26,6 +26,4 @@ p {
     border-radius: 50%;
     position: auto;
     z-index: -1;
-    transition: transform 0.1s ease-in-out;
-    transform: translate(-50%, -50%);
 }
